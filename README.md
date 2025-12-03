@@ -40,6 +40,16 @@ IDE: IntelliJ IDEA
  
  -MySQL Database Connectivity
 
+ 🔹 Sample Login Credentials
+ 
+Username: admin
+
+Password: admin123
+
+Student Username:student
+
+Password:123
+
  🔹 Author
 
 Sharanya Pandey
